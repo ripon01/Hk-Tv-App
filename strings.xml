@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FTP Player</string>
+    <!-- Change this if your FTP server address ever changes -->
+    <string name="ftp_host">10.251.251.2</string>
+</resources>
